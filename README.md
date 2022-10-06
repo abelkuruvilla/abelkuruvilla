@@ -1,6 +1,6 @@
 Hi, I am **Abel Kuruvilla Santosh**, a Golang and DevOps Enginner.
 Currently Working in Seniorly (@seniorly)
-You can reach me at iam@abelkuruvillla.com
+You can reach me at iam@abelkuruvillla.dev
 
 <!---
 abelkuruvilla/abelkuruvilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
